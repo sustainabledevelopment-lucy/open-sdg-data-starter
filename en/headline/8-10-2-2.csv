@@ -1,21 +1,21 @@
-Year,Value,Units,Series
-2010,18.0,Number,Number of insurance companies reporting
-2011,18.0,Number,Number of insurance companies reporting
-2012,19.0,Number,Number of insurance companies reporting
-2013,19.0,Number,Number of insurance companies reporting
-2014,21.0,Number,Number of insurance companies reporting
-2015,22.0,Number,Number of insurance companies reporting
-2016,24.0,Number,Number of insurance companies reporting
-2017,23.0,Number,Number of insurance companies reporting
-2018,22.0,Number,Number of insurance companies reporting
-2019,20.0,Number,Number of insurance companies reporting
-2010,477.2,Local currency,Insurance premiums collected
-2011,292.9,Local currency,Insurance premiums collected
-2012,337.8,Local currency,Insurance premiums collected
-2013,405.4,Local currency,Insurance premiums collected
-2014,1003.2,Local currency,Insurance premiums collected
-2015,967.0,Local currency,Insurance premiums collected
-2016,921.3,Local currency,Insurance premiums collected
-2017,1004.4,Local currency,Insurance premiums collected
-2018,1092.7,Local currency,Insurance premiums collected
-2019,1308.1,Local currency,Insurance premiums collected
+Year,Value,Units,Series,Unit multiplier
+2010,18.0,Number,Number of insurance companies reporting,Units
+2011,18.0,Number,Number of insurance companies reporting,Units
+2012,19.0,Number,Number of insurance companies reporting,Units
+2013,19.0,Number,Number of insurance companies reporting,Units
+2014,21.0,Number,Number of insurance companies reporting,Units
+2015,22.0,Number,Number of insurance companies reporting,Units
+2016,24.0,Number,Number of insurance companies reporting,Units
+2017,23.0,Number,Number of insurance companies reporting,Units
+2018,22.0,Number,Number of insurance companies reporting,Units
+2019,20.0,Number,Number of insurance companies reporting,Units
+2010,477.2,Local currency,Insurance premiums collected,Millions
+2011,292.9,Local currency,Insurance premiums collected,Millions
+2012,337.8,Local currency,Insurance premiums collected,Millions
+2013,405.4,Local currency,Insurance premiums collected,Millions
+2014,1003.2,Local currency,Insurance premiums collected,Millions
+2015,967.0,Local currency,Insurance premiums collected,Millions
+2016,921.3,Local currency,Insurance premiums collected,Millions
+2017,1004.4,Local currency,Insurance premiums collected,Millions
+2018,1092.7,Local currency,Insurance premiums collected,Millions
+2019,1308.1,Local currency,Insurance premiums collected,Millions
