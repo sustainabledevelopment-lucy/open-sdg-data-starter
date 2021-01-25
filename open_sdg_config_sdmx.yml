@@ -25,7 +25,8 @@ inputs:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
       REF_AREA|KG: ''
-    drop_dimensions: SOURCE_DETAIL
+    drop_dimensions: 
+      - SOURCE_DETAIL
     dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.1.6.xml'
     import_translation_keys: true
   - class: InputCsvData
@@ -57,6 +58,10 @@ translations:
     source: translations
   - class: TranslationInputSdmx
     source: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.1.6.xml'
+    dimension_map:
+      UNIT_MEASURE: 'Units'
+      SERIES: 'Series'
+      REF_AREA|KG: ''
 
 # Destination directory
 # ---------------------
